@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CIValidator.1.0.0.csharp.001.Volk</id>
+    <version>1.0.0</version>
+    <authors>Ruben_Sasiain,Ruben_Sasiaín</authors>
+    <icon>CIValidator.png</icon>
+    <description>This package contains a Uruguayan CI validator, you 
+      can obtain the Identification Number which is the last 
+      digit of the CI or you can directly validate a CI by 
+      passing the 9 digits as a parameter</description>
+    <tags>Uruguay Uruguayan Validator Validar Cedula Identidad Registro Register Basico Basic:Csharp Nuget Mini Numero</tags>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\bin\Debug\net5.0\CedulaDeIdentidadValidator.dll" target="lib\net5.0\CedulaDeIdentidadValidator.dll" />
+    <file src="C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\resources\CIValidator.png" target="CIValidator.png" />
+  </files>
+</package>

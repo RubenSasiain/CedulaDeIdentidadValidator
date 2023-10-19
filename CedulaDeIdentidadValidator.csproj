@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>CIValidator.1.0.0.csharp.001.Volk</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ruben_Sasiaín;</Authors>
+    <Company>FreeLancer_Volk</Company>
+    <Description>
+      This package contains a Uruguayan CI validator, you 
+      can obtain the Identification Number which is the last 
+      digit of the CI or you can directly validate a CI by 
+      passing the 9 digits as a parameter
+    </Description>
+    <PackageIcon>
+      CIValidator.png
+    </PackageIcon>
+    <PackageTags>
+      Uruguay;Uruguayan;Validator;Validar;Cedula;Identidad;Registro;Register;Csharp;Nuget;Mini;Numero;
+    </PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include=" resources\CIValidator.png" Pack="true" PackagePath=""/>
+    <None Include=" resources\GNU General Public License v3.0.md" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
+</Project>

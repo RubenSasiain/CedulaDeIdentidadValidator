@@ -1,0 +1,11 @@
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\bin\Debug\net5.0\CedulaDeIdentidadValidator.deps.json
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\bin\Debug\net5.0\CedulaDeIdentidadValidator.dll
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\bin\Debug\net5.0\CedulaDeIdentidadValidator.pdb
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\CedulaDeIdentidadValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\CedulaDeIdentidadValidator.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\CedulaDeIdentidadValidator.AssemblyInfo.cs
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\CedulaDeIdentidadValidator.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\CedulaDeIdentidadValidator.dll
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\refint\CedulaDeIdentidadValidator.dll
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\CedulaDeIdentidadValidator.pdb
+C:\Users\ruben\source\repos\CedulaDeIdentidadValidator\CedulaDeIdentidadValidator\obj\Debug\net5.0\ref\CedulaDeIdentidadValidator.dll
